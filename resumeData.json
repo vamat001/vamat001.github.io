@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name":"Hi I'm Vivek",
+    "description":"Aspiring software developer and current student at UC Riverside",
+    "image":"profilepic1.jpg",
+    "bio":"I am currently in my 5th year at the University of California, Riverside pursuing a M.S. in computer science. My current interests are in the areas of natural language processing and operating systems. In my free time I like to build useful home improvement and automation tools in both hardware and software. My hobbies include music, outdoor activities such as hiking, playing basketball, and running, and grabbing boba with friends.",
+    "contactmessage":"If you have any questions or would just like to contact me please feel free to send me an email and I will try to get back to you as soon as I can.",
+    "email": "vivek.n.amatya@gmail.com",
+    "phone": "(310) 487-3898",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"3438 Starline Drive",
+      "city":"Rancho Palos Verdes",
+      "state":"California",
+      "zip": "90275"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"assets/resume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/vivek.amatya.1/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/viveknamatya/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/therealvivek",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/vamat001",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of California - Riverside",
+        "degree":"M.S. Computer Science",
+        "graduated":"June 2022",
+        "description":"As an incoming graduate student in computer science, I plan on focusing on algorithm design and optimization, machine learning/natural language processing, and bioinformatics."
+      },
+      {
+        "school":"University of California - Riverside",
+        "degree":"B.S. Computer Science",
+        "graduated":"December 2020",
+        "description":"In my four years as an undergraduate student at UCR I was able to build invaluable relationships and gain unique experiences not just through academia but also through clubs and outside projects. Most notably I enjoyed building a prototype of the ASUCR voting website. Although it did not end up getting used, I learned valuable lessons in team work and the importance of security and code reviews. I also joined the intramural basketball league for a quarter and lost brutally almost every game but still had a good time. Despite the extra activities, I was still a focused student and graduated Magna Cum Laude with a 3.78 GPA."
+      }
+    ],
+    "work":[
+      {
+        "company":"Xorb.AI",
+        "title":"Software Developer Intern - Frontend ",
+        "years":"January 2021 - June 2021",
+        "description":"At Xorb.AI I worked on frontend mobile development using Flutter and Dart. Working for a startup was an interesting experience that allowed me to explore unfamiliar areas such as animation and user interfaces and also work closely with backend developers to ensure a secure and a responsive application."
+      }
+    ],
+    "skills":[
+      {
+        "name":"C++",
+        "level":"95%"
+      },
+      {
+        "name":"Java",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"python",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
